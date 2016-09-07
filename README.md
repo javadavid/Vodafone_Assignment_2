@@ -45,7 +45,6 @@ Directing browser to:http://www.vodafone.co.nz
 Directing browser to My Vodafone:My Vodafone
 Directing browser to Login:My Vodafone
 Command duration or timeout: 2.10 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
 System info: host: 'DEVIREDDYs', ip: '192.168.1.123', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_66'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
