@@ -111,7 +111,6 @@ public class BrowserDriver {
 		try {
 			WebElement inputElement = mDriver.findElement(By.xpath("//div//a[text()='Login']"));
 			((JavascriptExecutor) mDriver).executeScript("arguments[0].click();", inputElement);
-			mDriver.findElement(By.xpath("//div//a[text()='Login']")).click();
 			Thread.sleep(1000);
 		} catch (Exception e) {
 			System.out.println("Exception in  WebDriver::navigateLoginLink: " + e.getMessage());
