@@ -26,7 +26,7 @@ public class WebsiteAutomationSteps {
 	 
 	 @When("^I navigate to Login page$")
 	    public void navigate_to_Login_page(){
-		 BrowserDriver.navigateLoginLink("My Vodafone");
+		 BrowserDriver.navigateLoginLink("Login");
 	    }
 	 
 	 @When("^I try to login with invalid credentials$")
